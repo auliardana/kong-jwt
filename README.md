@@ -3,7 +3,7 @@
 ## Clone the Repository
 ```bash
 git clone https://github.com/auliardana/kong-jwt.git
-cd kong-jwt/deployments/docker
+cd kong-jwt
 ```
 
 ## Install Dependencies
@@ -13,6 +13,7 @@ go mod tidy
 
 ## Start Docker Services
 ```bash
+cd deployments/docker
 docker compose up -d
 ```
 
