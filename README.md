@@ -3,7 +3,7 @@
 ## Clone the Repository
 ```bash
 git clone https://github.com/auliardana/kong-jwt.git
-cd kong-jwt
+cd kong-jwt/deployments/docker
 ```
 
 ## Install Dependencies
