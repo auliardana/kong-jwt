@@ -1,4 +1,6 @@
 # Project Setup
+This is a simple kong implementation using golang
+
 
 ## Clone the Repository
 ```bash
